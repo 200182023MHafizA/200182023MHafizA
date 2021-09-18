@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @200182023MHafizA
-- 👀 I’m interested in pemrograman
+- 👋 Hi, I’m  Alka
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Padang State Polytechnic
 
 
